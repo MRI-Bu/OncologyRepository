@@ -1,4 +1,4 @@
-This file contain java connection logic
+This file contain java connection magic
 updated the file 
-testing
+testingone
 development
