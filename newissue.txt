@@ -1,1 +1,2 @@
-hello new issue is added
+hello new issue is added and updated by master branch
+new line is added by master branch
